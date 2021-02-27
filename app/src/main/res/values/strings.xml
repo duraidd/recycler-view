@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">aristo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">this application is fully for educational purpose only</string>
+    <string name="description">A witness gave a detailed description of the man.
+He gave a very vivid and often shocking description of his time in prison.
+The book contains lyrical descriptions of the authors childhood.
+Would you say that is an accurate description of the current situation?</string>
+</resources>
+
